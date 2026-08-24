@@ -1,0 +1,15 @@
+# NUNCA subir al repositorio público (protocolo de seudonimización, TFM §3.9)
+*chave*
+*clave*
+*key*
+*correspondencia*
+*_IDENTIFICADO*
+*_RAW*
+*bruto*
+CENATE-respostas_dos_questionarios_v*.xlsx
+CENATE_Staging_v*.xlsx
+CENATE_Recalculo_FontesExternas_v*.xlsx
+*Informe_UF-*
+*Relatorio_UF-*
+~$*
+.DS_Store
