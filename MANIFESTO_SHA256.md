@@ -1,14 +1,16 @@
 # Manifesto SHA-256 — CENATE Materiais Suplementares (v1.0-submissao)
 
+DOI: 10.5281/zenodo.22081500 — https://doi.org/10.5281/zenodo.22081500
+
 Permite verificar a integridade de cada arquivo do repositório.
 
 | Arquivo | SHA-256 | Bytes |
 |---|---|---|
 | `.gitignore` | `a048477a49110f50c679218f8336172e207e874a011885e20f2ecfb5700e6685` | 302 |
-| `LICENSE` | `a483cd2cdbf05c921466dc53340bfcc06458d7be5655580834c49b5982bab6d1` | 930 |
+| `LICENSE` | `8befea4d5f9ad77ee65aab336639854b3474c3d81b0bb381589103b7781ec84a` | 931 |
 | `LICENSE-CODE` | `f06c92f971dda4bef554b06afe6747374bdb9348adf8440bbc979ac6e6ee9fbc` | 1,167 |
 | `MATRIZ_ADERENCIA_TFM.md` | `baecfe411aba60fc4ef6f5f67ecc22ec970e5a04e5aee86b86080ee439c5da24` | 1,978 |
-| `README.md` | `5e5ae4669e3314fb3c526494eea5efa40e8a01a396abef674ff781fa64398d13` | 4,744 |
+| `README.md` | `daff695673d457e194d7f7f31a9575fcc7eb2be79e92da251fb05b5ebf5f82e0` | 5,962 |
 | `09_cotejo_bloque_c_fuentes_publicas/Apendice_C7_Cotejo_BlocoC.md` | `055eda9d9230717596a488168cb8666a12c8008e674193edbe763a27e19bde4b` | 386 |
 | `09_cotejo_bloque_c_fuentes_publicas/CENATE_recalculo_fontes_abertas_v4_pseudonimizado.xlsx` | `6f5104856bd11e0ac9bdb90503f7f573c6b8bdc18688cf60397145e412b70351` | 19,092 |
 | `02_manual_glosario/Apendice_C_Manual_Preenchimento.docx` | `86a636574dd185a560ec19b11d0396bafe06331ecff0f10190dbc2efbaf12631` | 37,605 |
