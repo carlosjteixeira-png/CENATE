@@ -1,0 +1,2 @@
+# Síntese analítica das respostas LAI
+No recorte temporal do TFM, foram formalizados 17 pedidos: dois indeferidos, dois prorrogados e treze pendentes. Os indeferimentos invocaram produção de informação nova ou consolidação adicional. As prorrogações decorreram de complexidade, volume e consulta a múltiplas áreas. Dados obtidos por LAI podem subsidiar somente o Bloco C e não integram IMI, IPR ou IEI.
