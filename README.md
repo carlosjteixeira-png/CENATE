@@ -1,4 +1,4 @@
-# CENATE — Materiais Suplementares (v1.0-submissao)
+# CENATE — Materiais Suplementares
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22081500.svg)](https://doi.org/10.5281/zenodo.22081500)
 
@@ -8,7 +8,7 @@ O CENATE (Censo Nacional das Administrações Tributárias Estaduais) é um inst
 
 ## Versão de submissão
 
-Esta é a release `v1.0-submissao`, correspondente ao estado dos materiais na data de depósito do Trabalho Final de Máster.
+Este repositório reflete o estado mais recente dos materiais. A versão correspondente aos dados apresentados no TFM está arquivada no Zenodo (ver seção de citação, abaixo).
 
 ### Conteúdo consolidado
 
@@ -93,6 +93,8 @@ A versão 2.4 contempla:
 
 ## Controle de versão
 
+Esta numeração (v2.2, v2.3, v2.4) documenta etapas internas de consolidação de arquivos e é independente da numeração de versões do dataset arquivado no Zenodo (v1.0, v2.0, v2.1), que reflete a evolução da base de dados.
+
 | Versão | Alteração principal |
 |---------|--------------------|
 | v2.2 | Consolidação inicial para publicação |
@@ -130,6 +132,7 @@ O arquivo `MANIFESTO_SHA256.md` lista o hash SHA-256 de cada arquivo do reposit�
 
 ## Citação recomendada
 
-> Teixeira, C. J. (2026). *CENATE: Materiais suplementares* (v1.0-submissao) [Conjunto de dados e código]. Zenodo. https://doi.org/10.5281/zenodo.22081500
+Teixeira, C. J. (2026). CENATE: Materiais suplementares [Conjunto de dados e código]. Zenodo.
+https://doi.org/10.5281/zenodo.22081499
 
 **DOI:** [10.5281/zenodo.22081500](https://doi.org/10.5281/zenodo.22081500) · **Registro:** https://zenodo.org/records/22081500
