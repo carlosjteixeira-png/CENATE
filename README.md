@@ -112,9 +112,9 @@ python tabular_cenate.py
 Saída esperada:
 
 ```
-IMI_media    esperado    68.6   obtido    68.6   OK
+IMI_media    esperado    66.7   obtido    66.7   OK
 IPR_media    esperado    53.3   obtido    53.3   OK
-IEI_media    esperado    67.7   obtido    67.7   OK
+IEI_media    esperado    69.9   obtido    69.9   OK
 pearson      esperado   -0.32   obtido   -0.32   OK
 Reproducao confirmada.
 ```
