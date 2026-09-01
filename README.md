@@ -1,6 +1,6 @@
 # CENATE — Materiais Suplementares
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22081500.svg)](https://doi.org/10.5281/zenodo.22081500)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22081499.svg)](https://doi.org/10.5281/zenodo.22081499)
 
 ## Resumo executivo
 
@@ -135,4 +135,4 @@ O arquivo `MANIFESTO_SHA256.md` lista o hash SHA-256 de cada arquivo do reposit�
 Teixeira, C. J. (2026). CENATE: Materiais suplementares [Conjunto de dados e código]. Zenodo.
 https://doi.org/10.5281/zenodo.22081499
 
-**DOI:** [10.5281/zenodo.22081500](https://doi.org/10.5281/zenodo.22081500) · **Registro:** https://zenodo.org/records/22081500
+**DOI:** [10.5281/zenodo.22081499](https://doi.org/10.5281/zenodo.22081499) · **Registro:** https://zenodo.org/records/22081499
